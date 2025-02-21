@@ -3,6 +3,11 @@
     ┛┗┗┫┣┛┗┻┛┛  
        ┛┛     
 
+## How it works:
+
+Basically just terminates the `RobloxCrashHandler.exe` on launch, prevents most crashes from injection.
+
+
 ## Building instructions:
 
 1 - Download/clone this repo
